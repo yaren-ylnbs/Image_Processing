@@ -7,7 +7,7 @@
 Bu repo, klasik ve ileri seviye görüntü işleme algoritmalarını **Nesne Tespiti (Person + Horse)** pipeline’ı ile birleştirir.  
 Tüm modüller **OOP (Object-Oriented Programming)** mantığıyla yazılmış ve **GUI üzerinden interaktif test** imkânı sunar.
 Örnek GUI ekranı
-![GUI](assets/Ekran görüntüsü 2025-12-27 030617.png)
+![GUI](assets/gui.png)
 
 
 ## A) Filters — Görüntü Ön İşleme Aşamaları
